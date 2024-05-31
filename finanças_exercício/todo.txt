@@ -1,0 +1,21 @@
+# Sistema de Finanças
+
+    - Adicionar minhas receitas
+    - Adicionar minhas despesas
+    - Categorizar minhas receitas e despesas, para descobrir onde gasto mais
+    - Exibir meu Saldo Total
+
+# Classes
+    - Transação (receita e despesa)
+        - descrição (ex: salario, mesada, bonus, 13o)
+        - valor
+        - categoria (descrição)
+
+    - Categoria
+        - Nome
+
+# Funções/ Método
+    - Cadastrar transação (receita/despesa)
+    - Cadastrar Categorias (descrição)
+    - calcular saldo total
+

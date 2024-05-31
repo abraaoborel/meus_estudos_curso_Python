@@ -1,0 +1,48 @@
+# O que meu projeto vai ter?
+
+# UM RPG SIMPLES!
+
+# O que vai ter nele?
+
+# Um usuário pode escolher 3 personagens
+    # Um usuário tem que ter um nome e um email para se cadastrar
+    # Cada personagem, criado vai receber um nome próprio, o personagem também pode ser deletado
+    # O usuário pode selecionar com qual personagem ele vai jogar
+    # O usuário controla o personagem selecionado
+
+
+- 3 Raças:
+    - Humano
+        Classes:
+            Guerreiro (Tanque, Lutador)
+            Mago (Curador, Mago de Dano)
+    - Robô
+        Classes:
+            Guerreiro (Tanque, Lutador)
+            Atirador (Bazuca, Criador de Armadilhas)
+    - Elfo
+        Classes:
+            Guerreiro (Tanque, Lutador)
+            Mago (Mago de Dano, Invocador)
+
+
+- 3 Mapas:
+    # Esses três mapas, podem ter choques(invasões) entre raças
+    - BASE
+        Com npcs para comprar, vender, trocar, banco (para guardar itens)
+    - Fora da BASE:
+        Monstros de nivel 1 até o 50
+    - BOSS
+        Todas as raças se encontram, para um combate
+        - O BOSS é muito forte, e dropa itens únicos, que dão atributos especiais
+
+
+- Eventos:
+    # Cada raça vai ter um representante máximo, titulo dado ao vencedor do torneio
+    # O vencedor do Torneio, será o representante máximo de sua raça.
+    # O vencedor do Torneio, vai receber além do Título seus atributos multiplicados, por 100
+    # Durante o Torneio, o representante atual da sua raça perde esses atributos
+    # Para tornar o Torneio justo!
+    # O segundo lugar do torneio, vai receber um título também e tera seus atributos multiplicados, por 50
+    # E o terceiro lugar do torneio, vai receber um título também, e terá seus atributos multiplicados, por 30
+
